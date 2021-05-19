@@ -26,14 +26,17 @@ BODY{
 	width: 30%;
 	border: 1px solid gray;
 	background: linear-gradient( #EECFBA, #C5DDE8);
+	
 }
 .shr3{
+	margin-left: 50px;
+	margin-top: 0px;
 	border: 0px solid gray;
-	font-family: 'RobotoMono', sans-serif;
+	font-family: 'RobotoMono-Bold', sans-serif;
 	vertical-align: top;
 	width: 50%;
 	height: 110px;
-	margin-top: 10%;
+	margin-top: 5%;
 	display : inline-block;
 	background: repeating-linear-gradient(45deg, #c8c8c8, #c8c8c8 10px, #C5DDE8 10px, #C5DDE8 20px);
 }
