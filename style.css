@@ -3,6 +3,9 @@
 font-family: RobotoMono; /* Назва шрифта */
 src: url(RobotoMono.ttf); /* Шлях до файлу зі шрифтом */
 }
+BODY{
+	background: linear-gradient(45deg, #ede1e1, #70b1fa);
+}
 .body{
 	width: 100%;
 	height:400px;
